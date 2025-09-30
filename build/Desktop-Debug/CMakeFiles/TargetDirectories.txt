@@ -1,0 +1,7 @@
+/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles/Detector-GUI.dir
+/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles/install.dir
+/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles/install/strip.dir
