@@ -1,3 +1,4 @@
+# Plan
 Key facts (so we’re aligned)
 
 * Company wants: **C++, CV on edge, DSA, Linux, Qt/QML**.
