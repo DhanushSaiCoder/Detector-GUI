@@ -265,6 +265,9 @@ Detector-GUI_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Detector-GUI_SOURCE_DIR:STATIC=/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI
 
+//The directory containing a CMake configuration file for OpenCV.
+OpenCV_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/opencv4
+
 //Skip Qt Creator's package manager auto-setup
 QT_CREATOR_SKIP_PACKAGE_MANAGER_SETUP:BOOL=OFF
 
@@ -433,6 +436,8 @@ CMAKE_TAPI-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding OpenCV
+FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[/usr][v4.6.0()]
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //CMAKE_INSTALL_PREFIX during last run

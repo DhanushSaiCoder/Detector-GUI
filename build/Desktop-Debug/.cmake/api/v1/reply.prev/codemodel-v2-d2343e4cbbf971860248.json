@@ -6,8 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-ab85ed5ad5db42998751.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -39,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Detector-GUI::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Detector-GUI-Debug-08e29b9335665621ae20.json",
-					"name" : "Detector-GUI",
+					"id" : "detector_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-detector_app-Debug-03b95748b8813c6efa0e.json",
+					"name" : "detector_app",
 					"projectIndex" : 0
 				}
 			]
