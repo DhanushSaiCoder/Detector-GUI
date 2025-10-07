@@ -381,7 +381,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/webcam.cpp",
+			"path" : "src/Week_3/smart_pointers.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

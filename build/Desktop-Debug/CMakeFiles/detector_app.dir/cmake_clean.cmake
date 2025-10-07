@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/detector_app.dir/src/webcam.cpp.o"
-  "CMakeFiles/detector_app.dir/src/webcam.cpp.o.d"
+  "CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o"
+  "CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o.d"
   "detector_app"
   "detector_app.pdb"
 )

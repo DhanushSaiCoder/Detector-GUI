@@ -12,7 +12,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 find_package(OpenCV REQUIRED)
 
 # Add your executable target, pointing to the correct source file
-add_executable(detector_app src/webcam.cpp)
+add_executable(detector_app #[[src/webcam.cpp]] src/Week_3/smart_pointers.cpp)
 
 # Link the OpenCV libraries to your executable
 target_link_libraries(detector_app PRIVATE ${OpenCV_LIBS})

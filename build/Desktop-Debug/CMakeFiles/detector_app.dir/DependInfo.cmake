@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/webcam.cpp" "CMakeFiles/detector_app.dir/src/webcam.cpp.o" "gcc" "CMakeFiles/detector_app.dir/src/webcam.cpp.o.d"
+  "/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/Week_3/smart_pointers.cpp" "CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o" "gcc" "CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

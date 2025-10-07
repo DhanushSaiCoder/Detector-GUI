@@ -69,28 +69,28 @@ include CMakeFiles/detector_app.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/detector_app.dir/flags.make
 
-CMakeFiles/detector_app.dir/src/webcam.cpp.o: CMakeFiles/detector_app.dir/flags.make
-CMakeFiles/detector_app.dir/src/webcam.cpp.o: /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/webcam.cpp
-CMakeFiles/detector_app.dir/src/webcam.cpp.o: CMakeFiles/detector_app.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/detector_app.dir/src/webcam.cpp.o"
-	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/detector_app.dir/src/webcam.cpp.o -MF CMakeFiles/detector_app.dir/src/webcam.cpp.o.d -o CMakeFiles/detector_app.dir/src/webcam.cpp.o -c /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/webcam.cpp
+CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o: CMakeFiles/detector_app.dir/flags.make
+CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o: /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/Week_3/smart_pointers.cpp
+CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o: CMakeFiles/detector_app.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/build/Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o"
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o -MF CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o.d -o CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o -c /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/Week_3/smart_pointers.cpp
 
-CMakeFiles/detector_app.dir/src/webcam.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/detector_app.dir/src/webcam.cpp.i"
-	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/webcam.cpp > CMakeFiles/detector_app.dir/src/webcam.cpp.i
+CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.i"
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/Week_3/smart_pointers.cpp > CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.i
 
-CMakeFiles/detector_app.dir/src/webcam.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/detector_app.dir/src/webcam.cpp.s"
-	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/webcam.cpp -o CMakeFiles/detector_app.dir/src/webcam.cpp.s
+CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.s"
+	/usr/bin/clang++-18 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dhanushsai/Documents/Codes/C++/RepoDestinations/Detector-GUI/src/Week_3/smart_pointers.cpp -o CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.s
 
 # Object files for target detector_app
 detector_app_OBJECTS = \
-"CMakeFiles/detector_app.dir/src/webcam.cpp.o"
+"CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o"
 
 # External object files for target detector_app
 detector_app_EXTERNAL_OBJECTS =
 
-detector_app: CMakeFiles/detector_app.dir/src/webcam.cpp.o
+detector_app: CMakeFiles/detector_app.dir/src/Week_3/smart_pointers.cpp.o
 detector_app: CMakeFiles/detector_app.dir/build.make
 detector_app: /usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.6.0
 detector_app: /usr/lib/x86_64-linux-gnu/libopencv_alphamat.so.4.6.0
